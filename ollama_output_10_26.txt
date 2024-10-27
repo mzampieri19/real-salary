@@ -1,0 +1,136 @@
+Prompt: 
+
+f"Identify the sector and industry for the company named {prompt}. " 
+"Respond strictly in the format: 'Sector: [best matching sector], Industry: [best matching industry]'. "
+f"Select the most appropriate sector from this list: {sectors_str}, and the most appropriate industry from this list: {industry_str}." 
+"Do not include any additional information or commentary."
+
+Response: 
+
+Apple: Sector: Technology, Industry: Electronics
+Microsoft: Sector: Information Technology
+Industry: Software and Technology
+Google: Sector: Information Technology, Industry: Internet Services
+Amazon: Sector: Information Technology, Industry: E-commerce
+Facebook: Sector: Technology
+Industry: Internet Services and Retailing
+Tesla: Sector: Industrial Conglomerate, Industry: Automotive
+IBM: Sector: Information Technology, Industry: Computer Software
+Intel: Sector: Information Technology
+Industry: Semiconductors
+Cisco: Sector: Information Technology, Industry: Communication Equipment
+Oracle: Sector: Information Technology, Industry: Software and Technology
+HP: Sector: Technology, Industry: Computer Hardware
+Dell: Sector: Technology, Industry: Appliances and Electronics
+Adobe: Sector: Information Technology, Industry: Software and Technology
+Salesforce: Sector: Information Technology, Industry: Software and Technology
+Uber: Sector: Technology, Industry: Internet Services and Retailing
+Lyft: Sector: Technology
+Industry: Transportation
+Snapchat: Sector: Technology, Industry: Internet Services
+Twitter: Sector: Communication Equipment, Industry: Internet Services and Retailing
+Netflix: Sector: Information Technology, Industry: Media
+Spotify: Sector: Information Technology
+Industry: Internet Services and Retailing
+Airbnb: Sector: Technology, Industry: Information Technology
+Dropbox: Sector: Information Technology
+Industry: Cloud Storage and File Sharing Services
+Pinterest: Sector: Information Technology, Industry: Internet Services
+PayPal: Sector: Financial Services, Industry: Financial Technology (Fintech)
+Square: Sector: Financial Technology
+Industry: Payment Processing
+Shopify: Sector: Technology
+Industry: E-commerce Platforms
+Zoom: Sector: Technology
+Industry: Communication Equipment
+Slack: Sector: Information Technology
+Industry: Communication Equipment
+Reddit: Sector: Information Technology, Industry: Internet Services and Retailing
+LinkedIn: Sector: Information Technology, Industry: Professional Networking and Social Media
+eBay: Sector: Consumer Goods
+Industry: E-commerce
+Nvidia: Sector: Information Technology
+Industry: Semiconductors and Other Electronic Components
+AMD: Sector: Information Technology, Industry: Semiconductors and Other Electronic Components
+Qualcomm: Sector: Technology
+Industry: Semiconductors and Other Electronic Components
+Samsung: Sector: Technology, Industry: Electronics
+LG: Sector: Appliances and Electronics, Industry: Electronics
+Sony: Sector: Consumer Goods, Industry: Electronics
+Panasonic: Sector: Appliances and Electronics
+Industry: Consumer Goods
+Philips: Sector: Appliances and Electronics, Industry: Electrical Equipment
+Siemens: Sector: Industrial Conglomerate, Industry: Engineering
+Xiaomi: Sector: Consumer Goods, Industry: Appliances and Electronics
+Huawei: Sector: Information Technology, Industry: Communication Equipment
+Alibaba: Sector: Information Technology, Industry: E-commerce
+Tencent: Sector: Information Technology, Industry: Internet Services and Retailing
+Baidu: Sector: Technology, Industry: Internet Services and Retailing
+JD.com: Sector: Technology
+Industry: E-commerce
+Meituan: Sector: Consumer Goods, Industry: Food and Beverage
+Didi: Sector: Information Technology, Industry: Internet Services and Retailing
+ByteDance: Sector: Information Technology, Industry: Internet Services and Retailing
+Pinduoduo: Sector: Consumer Goods, Industry: E-commerce
+Coca-Cola: Sector: Consumer Goods, Industry: Beverages
+Pepsi: Sector: Consumer Goods, Industry: Beverages
+Nike: Sector: Consumer Goods, Industry: Apparel
+Adidas: Sector: Consumer Goods, Industry: Apparel and Textiles
+Starbucks: Sector: Consumer Goods, Industry: Beverages
+McDonald's: Sector: Consumer Goods
+Industry: Restaurants
+Burger King: Sector: Consumer Goods, Industry: Restaurants
+KFC: Sector: Consumer Goods, Industry: Restaurants
+Subway: Sector: Consumer Goods, Industry: Restaurants
+Domino's: Sector: Consumer Goods, Industry: Food and Beverage
+Walmart: Sector: Consumer Goods, Industry: Retail
+Target: Sector: Retail, Industry: Consumer Goods
+Costco: Sector: Consumer Goods, Industry: Retail
+Home Depot: Sector: Consumer Goods, Industry: Home Improvement Retailer
+Lowe's: Sector: Consumer Goods, Industry: Home Improvement Retailer
+Best Buy: Sector: Consumer Goods, Industry: Appliances and Electronics
+Macy's: Sector: Consumer Goods
+Industry: Retail
+Nordstrom: Sector: Retail, Industry: Apparel and Textiles
+Sears: Sector: Retail, Industry: Consumer Goods
+JCPenney: Sector: Retail, Industry: Apparel and Textiles
+AT&T: Sector: Communication Equipment, Industry: Telecommunications
+Verizon: Sector: Information Technology, Industry: Telecommunications
+T-Mobile: Sector: Communication Equipment, Industry: Telecommunications
+Sprint: Sector: Information Technology, Industry: Communication Equipment
+Comcast: Sector: Communication Equipment, Industry: Telecommunications
+Charter: Sector: Industrials, Industry: Real Estate
+Dish Network: Sector: Communication Equipment, Industry: Telecommunications
+DirecTV: Sector: Consumer Goods, Industry: Appliances and Electronics
+CenturyLink: Sector: Communication Equipment, Industry: Telecommunications
+Frontier: Sector: Aerospace and Defense
+Industry: Aircraft Manufacturing
+Ford: Sector: Industrial Conglomerate, Industry: Automotive
+General Motors: Sector: Automotive
+Industry: Automotive
+Toyota: Sector: Automotive
+Industry: Automotive
+Honda: Sector: Automotive
+Industry: Automotive
+BMW: Sector: Industrial Conglomerate, Industry: Automotive
+Mercedes-Benz: Sector: Automotive
+Industry: Automotive
+Volkswagen: Sector: Automotive
+Industry: Automotive
+Audi: Sector: Automotive
+Industry: Automotive
+Porsche: Sector: Automotive
+Industry: Automotive
+Ferrari: Sector: Automotive, Industry: Automotive
+Boeing: Sector: Aerospace and Defense, Industry: Aerospace
+Airbus: Sector: Aerospace and Defense, Industry: Aerospace
+Lockheed Martin: Sector: Aerospace and Defense
+Industry: Aerospace
+Northrop Grumman: Sector: Aerospace and Defense, Industry: Aerospace and Defense
+Raytheon: Sector: Aerospace and Defense, Industry: Aerospace
+General Electric: Sector: Industrial Conglomerate, Industry: Electrical Equipment
+3M: Sector: Industrials, Industry: Conglomerate
+Honeywell: Sector: Industrial Conglomerate
+Industry: Aerospace and Defense
+Caterpillar: Sector: Industrial Conglomerate, Industry: Industrial Machinery
+John Deere: Sector: Industrials, Industry: Industrial Machinery
