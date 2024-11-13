@@ -42,3 +42,11 @@ Finally, we get to our most recent work, which is with the OLLAMA API, this API 
 ## Current Results 
 
 As of right now we are getting an accuracy of 60% with a response time of 1:37 minutes for 50 entries. This was achieved with a condensed list of indstries based on the list of industries given by our challange advisors. 
+
+## Improved Results 
+
+We were able to improve our accuracy a little but by changing our method. In our new method, we choose our compnaies at random anf then compare them to test for accuracy with this we got an average of 65% accuracy. 
+
+## Company Dictionary
+
+After we were satisfied with our accuracy we began to construct a dictionary of correctly predicted industires. This dictionary is called "prediction_dictionary.json" which maps company names to predicted industry. This dictionary is our "final" product and what we will give to our challange advisors. We will probably do something similar for job function. 

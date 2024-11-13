@@ -1,5 +1,7 @@
 
 job_descriptions.csv
 filtered_country_work_type.csv
+mapped_sectors.csv
+prediction_dictioanry.json
 
 
