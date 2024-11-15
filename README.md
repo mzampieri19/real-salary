@@ -50,3 +50,7 @@ We were able to improve our accuracy a little but by changing our method. In our
 ## Company Dictionary
 
 After we were satisfied with our accuracy we began to construct a dictionary of correctly predicted industires. This dictionary is called "prediction_dictionary.json" which maps company names to predicted industry. This dictionary is our "final" product and what we will give to our challange advisors. We will probably do something similar for job function. 
+
+## Job Function
+
+Started working on predicting the job function. Doing this in a similar manner to industry, using Ollama to make the predictions. Need to figure out what to compare our prediction to in order to validate the model.
