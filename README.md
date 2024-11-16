@@ -54,3 +54,4 @@ After we were satisfied with our accuracy we began to construct a dictionary of 
 ## Job Function
 
 Started working on predicting the job function. Doing this in a similar manner to industry, using Ollama to make the predictions. Need to figure out what to compare our prediction to in order to validate the model.
+
