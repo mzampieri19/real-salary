@@ -40,6 +40,7 @@ This repository contains all of our work for this project. The following folders
 11. job_function.json - The JSON object containing mapping of roles to predicted job functions.
 12. industry.json- The JSON object containing mapping of companies to predicted industires. 
 
+- Other files 
 13. accuracy-test-ollama.ipynb - Our first round of testing for accuracy using the ollama model. This was done with the the complete list of industry and sectors. 
 14. Analysis.ipynb - This is where we did the analysis for the shorter list of industries. 
 15. job_function.ipynb - Notebook we used to predict job function. 
